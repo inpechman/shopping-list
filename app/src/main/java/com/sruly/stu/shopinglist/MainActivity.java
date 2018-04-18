@@ -34,6 +34,7 @@ public class MainActivity extends AppCompatActivity {
             System.out.println("AAA " + str);
         } catch (IOException e) {
             e.printStackTrace();
+
         }
     }
 }
